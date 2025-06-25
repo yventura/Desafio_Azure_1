@@ -21,7 +21,7 @@ Este repositório reúne documentação, anotações e exemplos práticos sobre 
 4. Configure redes, discos, grupos de disponibilidade e outras opções
 5. Reveja as configurações e crie a VM
 
-![Criar VM](./images/vm-create.png)
+
 
 ## Alta Disponibilidade
 - Utilize **Conjuntos de Disponibilidade (Availability Sets)** para distribuir as VMs em diferentes racks físicos, minimizando riscos de falhas simultâneas.
@@ -31,7 +31,7 @@ Este repositório reúne documentação, anotações e exemplos práticos sobre 
 - Configure **Virtual Machine Scale Sets (VMSS)** para criar e gerenciar múltiplas VMs idênticas.
 - Defina regras baseadas em métricas (como CPU ou memória) para adicionar ou remover VMs automaticamente.
   
-![Configuração de Auto Scaling](./images/autoscale-setup.png)
+
 
 ## Automação com PowerShell DSC
 - Utilize scripts DSC para garantir a configuração consistente das VMs, como instalação de softwares e configuração de serviços.
